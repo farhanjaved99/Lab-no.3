@@ -1,0 +1,6 @@
+#include<iostream>
+using namespace std;
+int main(){
+cout<<"Farhan Javed";
+cout<<"23-SET-034";
+}
