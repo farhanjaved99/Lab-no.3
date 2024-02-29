@@ -4,5 +4,7 @@ int main(){
 cout<<"Farhan Javed";
 cout<<"23-SET-034";
 cout<<"The addition of two number is:"<<a+b<<endl; 
-cout<<"The Subtraction of two number is:"<<a-b<<endl;
+cout<<"The Subtraction of two number is:"<<a-b<<endl; 
+cout<<"The Multiplication of two number is:"<<a*b<<endl; 
+cout<<"The Division of two number is:"<<a/b<<endl;
 }
